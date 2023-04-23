@@ -13,8 +13,8 @@
 	padding: 10px 10px 0px 10px;
 }
 
-.holder div span {
+.author {
 	padding: 0px 10px 10px 0px;
 	display: flex;
-	justify-content: right;
+	justify-content: start;
 }
